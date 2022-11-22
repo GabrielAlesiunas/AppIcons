@@ -2,7 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import { FontAwesome5, FontAwesome} from '@expo/vector-icons'; 
 
-export default function FontAwesome5() {
+export default function TelaFontAwesome5() {
   return (
     <View style={styles.container}>
       <Text>FontAwesome5</Text>
